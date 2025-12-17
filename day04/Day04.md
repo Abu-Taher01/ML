@@ -25,7 +25,7 @@ reverse = data[::-1]  # [50, 40, 30, 20, 10]
 
 # List Comprehension
 # (Action for Item in List if Condition)
-squares = [x+2 for x in data]
+squares = [x**2 for x in data]
 ```
 
 ---
