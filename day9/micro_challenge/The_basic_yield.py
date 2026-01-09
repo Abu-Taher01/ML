@@ -11,5 +11,7 @@ def gen(n):
 
 g = gen(10)
 
+print('with next', next(g))
+
 for i in g:
     print(i)
