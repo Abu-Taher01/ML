@@ -11,4 +11,4 @@ pausing execution between calls,
 resuming right where it left off
 efficient memory usage, infinite sequences made possible. 
 
-<i>"Just like a loaded gun, you have the tigger it to run"
+<i>"You have the tigger to turn, It is a loaded gun"
