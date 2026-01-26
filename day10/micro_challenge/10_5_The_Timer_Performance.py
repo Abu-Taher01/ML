@@ -14,6 +14,7 @@ def timing(func):
         return result
     return wrap
 
+
 @timing
 def add(a,b):
     return a+b
